@@ -52,9 +52,9 @@ body                        { width: 100%;
                               -moz-osx-font-smoothing: grayscale;
                               text-rendering: optimizeLegibility; }
 html                        { font-size: 75% }
-body                        { background-color: #ddd;
+body                         { background-color: #ddd;
                               font-size: 1.8rem;
-                              color: #333; }
+                              color: #333; }            
 
 h1,
 h2,
@@ -96,6 +96,8 @@ h5                          { font-size: 1.3rem }
                               border-bottom: 0.35rem solid green;
                               top: 7.2rem; }
 
+
 .question                   { position: absolute;
                               right: 100px;
                               bottom: 100px;}
+
